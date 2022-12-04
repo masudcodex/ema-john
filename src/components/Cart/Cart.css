@@ -1,0 +1,16 @@
+.cart{
+    position: fixed;
+    top: 100px;
+    padding: 0 25px;
+}
+.cart h3{
+    font-size: 25px;
+    font-weight: 500;
+}
+.cart p{
+    font-size: 17px;
+}
+.cart h5{
+    font-size: 21px;
+    font-weight: 500;
+}
